@@ -2,7 +2,7 @@
 //  Training_2App.swift
 //  Training-2
 //
-//  Created by Seymen Nadir Elmas on 27.09.2023.
+//  Created by Seymen Nadir Elmas 
 //
 
 import SwiftUI
